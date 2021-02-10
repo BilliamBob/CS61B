@@ -1,4 +1,3 @@
-package cs61b;
 import java.util.Arrays;
 
 public class PracticeExercises {
